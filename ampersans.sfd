@@ -16,16 +16,18 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 235 -228293956 10999259]
+StyleMap: 0x0000
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1514021790
-ModificationTime: 1514021953
+ModificationTime: 1514024228
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 90
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -34,7 +36,6 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2Vendor: 'PfEd'
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -44,6 +45,15 @@ AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 31 18
 AnchorClass2: "blank""" 
-BeginChars: 256 0
+BeginChars: 256 1
+
+StartChar: ampersand
+Encoding: 38 38 0
+Width: 0
+VWidth: 0
+Flags: HWO
+AnchorPoint: "blank" 0 0 basechar 0
+LayerCount: 2
+EndChar
 EndChars
 EndSplineFont
